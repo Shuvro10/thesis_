@@ -12,5 +12,6 @@ demo
 
 | Metric        | Precision | Recall | F1-Score | Support  |
 |---------------|-----------|--------|----------|----------|
+| Accuracy      |           |        | 0.99     | 409465   |
 | Macro avg     | 0.88      | 0.59   | 0.64     | 409,465  |
 | Weighted avg  | 0.99      | 0.99   | 0.99     | 409,465  |
